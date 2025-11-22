@@ -1,3 +1,6 @@
 This is my first git text file.
 New line.
 Second branch commit.
+This is my first git text file.
+New line.
+3rd commit.
